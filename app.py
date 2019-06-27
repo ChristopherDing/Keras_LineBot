@@ -24,9 +24,9 @@ model = load_model('school.h5')
 
 # Channel Access Token
 line_bot_api = LineBotApi(
-    'alzsTgpLNdbsPh2MJMqTubPkanoq5glqyah01Q3Ry7YXMI8tQz2V66sFmzNySmDripQcT+LhnD2pCCY9jC5+1ZH8BeYz/oQL1iZYtHCGT3sVMUyXhGoQhZ1Z8dRIt4NJqQeN0cU4HHzIpZ3nlmLmKQdB04t89/1O/w1cDnyilFU=')
+    '')
 # Channel Secret
-handler = WebhookHandler('02800c7708ac1715560f38103153be47')
+handler = WebhookHandler('')
 
 
 # 監聽所有來自 /callback 的 Post Request
