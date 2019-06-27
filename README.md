@@ -1,8 +1,7 @@
 #该readme教程为Line官网的教程，着重讲述鹦鹉学舌机器人和heroku的app部署  
 本人的程式将鹦鹉学舌的功能改写为由CNN神经网络训练的针对学校事务的问答机器人  
 本程式模型的详细训练过程请看NLP_project  
-PS:app.py中需要的line message api key，如下两处，请先前往官网注册机器人  
-  
+PS:app.py中需要的line message api key，如下两处，请先前往官网注册机器人   
 # Channel Access Token  
 line_bot_api = LineBotApi(  
     '')  
