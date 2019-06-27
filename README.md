@@ -1,3 +1,7 @@
+#该教程为Line官网的教程，着重讲述鹦鹉学舌机器人和heroku的app部署
+#我将鹦鹉学舌的功能改写为由CNN神经网络训练的针对学校事务的问答机器人
+#详细训练代码请看NLP_project
+
 # Line Bot 教學
 
 本教程介紹如何使用 Python LINE Bot SDK 在 Heroku 上架設一個簡單的學舌鳥機器人。
