@@ -1,4 +1,8 @@
-#该教程为Line官网的教程，着重讲述鹦鹉学舌机器人和heroku的app部署,我将鹦鹉学舌的功能改写为由CNN神经网络训练的针对学校事务的问答机器人,详细训练代码请看NLP_project
+#该readme教程为Line官网的教程，着重讲述鹦鹉学舌机器人和heroku的app部署  
+本人的程式将鹦鹉学舌的功能改写为由CNN神经网络训练的针对学校事务的问答机器人  
+本程式模型的详细训练过程请看NLP_project  
+PS:app.py中包含本人的line message api key，请勿盗用  
+
 
 # Line Bot 教學
 
