@@ -1,0 +1,6 @@
+line-bot-sdk
+flask==0.12.2
+numpy
+jieba
+keras==2.2.4
+tensorflow
