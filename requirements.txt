@@ -1,5 +1,5 @@
 line-bot-sdk
-flask==0.12.2
+flask==1.0
 numpy
 jieba
 keras==2.2.4
